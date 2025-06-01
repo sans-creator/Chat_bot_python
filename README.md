@@ -1,6 +1,6 @@
 # 🧠 Chat with GPT via Together API
 
-This is a simple Python CLI chatbot that uses the [Together API](https://docs.together.ai/) to communicate with the **Mixtral-8x7B** language model.
+This is a simple Python CLI chatbot that uses the [Together API](https://docs.together.ai/) 
 
 ---
 
